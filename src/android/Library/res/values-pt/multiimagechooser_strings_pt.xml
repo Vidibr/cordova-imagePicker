@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="multi_app_name">MultiImageChooser</string>
+    <string name="requesting_thumbnails">Obtendo imagens. Por favor, aguarde…</string>
+    <string name="free_version_label">Versión gratuita - Imágenes restantes: %d</string>
+    <string name="error_database">Erro ao abrir a base de dados de imagens.</string>
+    <string name="discard">Cancelar</string>
+    <string name="done">OK</string>
+</resources>
